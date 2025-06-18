@@ -1,0 +1,23 @@
+{
+    "name": "use-global-state",
+    "version": "1.0.0",
+    "description": "",
+    "keywords": [
+        "react",
+        "state management",
+        "hook",
+        "useSyncExternalStore"
+    ],
+    "author": {
+        "name": "Aneesh Varadan",
+        "url": "https://github.com/varadan13"
+    },
+    "license": "MIT",
+    "peerDependencies": {
+        "react": ">=18.0.0"
+    },
+    "devDependencies": {
+        "@types/react": "^18.0.0"
+    },
+    "type": "module"
+}
